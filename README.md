@@ -1,4 +1,4 @@
-# RedGelly
+# Red Gelly
 Um jogo de plataforma onde o jogador deve controlar Red Gelly (sim, Gelly, não Jelly) em sua busca pelo tesouro. 
 
 <p>
