@@ -11,6 +11,6 @@ Para jogar, instale o [Unity](https://unity.com/pt) em sua máquina, clone o pre
   <img src="/docs/GameOver.png" height="200" width="400">
 </p>
 
-#### Contato
+#### Ana Lívia Franco
 <a target="_blank" href="https://www.linkedin.com/in/analiviafr/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a> <a target="_blank" href="mailto:analiviafr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
